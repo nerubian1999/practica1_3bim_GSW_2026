@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: Selecao
+Template Name: Alejandro Manuel Olmos Beltran
 Template URL: https://bootstrapmade.com/selecao-bootstrap-template/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
